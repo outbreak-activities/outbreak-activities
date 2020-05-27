@@ -81,7 +81,7 @@ var prompts = [
 	{
 		criteria:	"readingandwriting",
 		choice: -2,
-		prompt: 'I want my child to prsctice their reading and writing skills ',
+		prompt: 'I want my child to practice their reading and writing skills ',
 		weight: 1,
 		class: 'group2'
 	},
@@ -284,7 +284,7 @@ Name : "<a href='https://learnzillion.com/resources/99926-ela-instructional-vide
 Criteria : [ 0,0,4,0,3,0,0,0,0,0 ]
 };
 var Scratch = {
-Name :  "<a href='https://bealearninghero.org/readiness-check/'> Scratch </a>",
+Name :  "<a href='https://scratch.mit.edu/'> Scratch </a>",
 //Decription : ''
 Criteria : [ 0,0,0,0,3,0,4,0,0,0 ]
 };
